@@ -5,3 +5,4 @@ const split = (a, b) => a / b
 
 
 module.exports = {  sum, subs, mult, split }
+// module.exports = { sum, subs, mult, split }
